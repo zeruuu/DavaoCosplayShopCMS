@@ -1,0 +1,2 @@
+﻿INSERT INTO Costume(costume_Name, costume_Origin, costumeType_ID, costumeSize_ID, costumeGender_ID, 
+costume_Price, costume_Inclusions, costume_Available, costume_IMG) VALUES
